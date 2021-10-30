@@ -3,10 +3,9 @@ I am a software developer, cyber security expert, cloud security architect, inst
 
 - 🔭 I’m currently researching new workflows for continous unit testing of infra-as-code.  Lots of [AWS CDK](https://github.com/aws/aws-cdk)
 - 💬 Ask me about my SANS class [SEC541 Cloud Security Monitoring & Threat Detection](https://www.sans.org/cyber-security-courses/cloud-security-monitoring-threat-detection/)
-- 😄 Pronouns: he/him
-- 📫 Find me on twitter [@thecybergoof](https://twitter.com/TheCybergoof)
 - 👨🏼‍💻 My [SANS Profile](https://www.sans.org/profiles/shaun-mccullough/).  It has a list of my Webcasts and Publications through SANS 
-
+- 📫 Find me on twitter [@thecybergoof](https://twitter.com/TheCybergoof)
+- 😄 Pronouns: he/him
 
 
 <!--
