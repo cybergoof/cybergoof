@@ -6,6 +6,7 @@ I am a software developer, cyber security expert, cloud security architect, inst
 - 👨🏼‍💻 My [SANS Profile](https://www.sans.org/profiles/shaun-mccullough/).  It has a list of my Webcasts and Publications through SANS 
 - 📫 Find me on twitter [@thecybergoof](https://twitter.com/TheCybergoof)
 - 😄 Pronouns: he/him
+![image](https://user-images.githubusercontent.com/3196612/153778505-e0763414-9649-4f66-9b89-5dc661867a49.svg)
 
 
 <!--
