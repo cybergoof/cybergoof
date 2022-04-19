@@ -12,6 +12,7 @@ I am a software developer,cloud security architect, instructor, and one time man
 ![image](https://user-images.githubusercontent.com/3196612/153778505-e0763414-9649-4f66-9b89-5dc661867a49.svg)
 
 📫 Find me on twitter [@thecybergoof](https://twitter.com/TheCybergoof)
+
 👨🏼‍💻 My [SANS Profile](https://www.sans.org/profiles/shaun-mccullough/).  It has a list of my Webcasts and Publications through SANS 
 
 <!--
