@@ -1,4 +1,4 @@
-# Hey GitHub, my name is Shaun.
+# Hello, my name is Shaun.
 I am a software developer,cloud security architect, instructor, and one time manager.  My passion is to make new tools for others to use.
 
 - :octocat: I am a staff engineer with [GitHub](https://github.com/) focusing on securing cloud workflows.
