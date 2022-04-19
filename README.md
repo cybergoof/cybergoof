@@ -1,5 +1,5 @@
 # Hey GitHub, my name is Shaun.
-I am a software developer, cyber security expert, cloud security architect, instructor, and one time manager.  My passion is to make new new tools for others to use.
+I am a software developer,cloud security architect, instructor, and one time manager.  My passion is to make new tools for others to use.
 
 - :octocat: I am a staff engineer with GitHub focusing on securing cloud workflows.
 - :dark_sunglasses: I was with the [National Security Agency](https://www.nsa.gov/) for over 20 years, focus on cyber operations, red/blue/hunt, and software development.
