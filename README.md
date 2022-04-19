@@ -2,7 +2,7 @@
 I am a software developer, cyber security expert, cloud security architect, instructor, and one time manager.  My passion is to make new new tools for others to use.
 
 - :octocat: I am a staff engineer with GitHub focusing on securing cloud workflows.
-- :dark_sunglasses: I was with the [National Security Agency](https://www.nsa.gov/) for over 20 years, focus on cyber operations, cyber security, and software development.
+- :dark_sunglasses: I was with the [National Security Agency](https://www.nsa.gov/) for over 20 years, focus on cyber operations, red/blue/hunt, and software development.
 - 💬 Co-author of SANS class [SEC541 Cloud Security Attacker Techniques, Monitoring & Threat Detection](https://www.sans.org/cyber-security-courses/cloud-security-monitoring-threat-detection/)
 - 👨🏼‍💻 My [SANS Profile](https://www.sans.org/profiles/shaun-mccullough/).  It has a list of my Webcasts and Publications through SANS 
 - 📫 Find me on twitter [@thecybergoof](https://twitter.com/TheCybergoof)
