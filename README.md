@@ -1,18 +1,23 @@
-# Hello, my name is Shaun.
+![github_dark](https://user-images.githubusercontent.com/3196612/164955007-40eda9f4-dee2-4e33-b534-6a6ccae4d755.png)
+
+
+
 I am a software developer,cloud security architect, instructor, and one time manager.  My passion is to make new tools for others to use.
 
-- :octocat: I am a staff engineer with [GitHub](https://github.com/) focusing on securing cloud workflows.
-- :shipit:	I was with the [National Security Agency](https://www.nsa.gov/) for over 20 years, focus on cyber operations, red/blue/hunt, and software development.
-- :man_teacher: SANS Instructor
-- :writing_hand:	Co-author of SANS class [SEC541 Cloud Security Attacker Techniques, Monitoring & Threat Detection](https://www.sans.org/cyber-security-courses/cloud-security-monitoring-threat-detection/)
-- 🔭 I’m currently researching automated response actions, Azure policy deployment, and learning Terraform even though [AWS CDK](https://github.com/aws/aws-cdk) is my favorite.
-- 😄 Pronouns: he/him
-- :bear: FUN FACT - In high school, I worked in a craft store making baskets with teddy bears. 
+:octocat: I am a staff engineer with [GitHub](https://github.com/) focusing on securing cloud workflows.
 
-![image](https://user-images.githubusercontent.com/3196612/153778505-e0763414-9649-4f66-9b89-5dc661867a49.svg)
+:shipit:	I was with the [National Security Agency](https://www.nsa.gov/) for over 20 years, focus on cyber operations, red/blue/hunt, and software development.
+
+:man_teacher: SANS Instructor
+
+:writing_hand:	Co-author of SANS class [SEC541 Cloud Security Attacker Techniques, Monitoring & Threat Detection](https://www.sans.org/cyber-security-courses/cloud-security-monitoring-threat-detection/)
+
+🔭 I’m currently researching automated response actions, Azure policy deployment, and learning Terraform even though [AWS CDK](https://github.com/aws/aws-cdk) is my favorite.
+
+😄 Pronouns: he/him
 
 📫 Find me on twitter [@thecybergoof](https://twitter.com/TheCybergoof)
-
+📓 Find me on LinkedIn [cybergoof](https://www.linkedin.com/in/cybergoof/)
 👨🏼‍💻 My [SANS Profile](https://www.sans.org/profiles/shaun-mccullough/).  It has a list of my Webcasts and Publications through SANS 
 
 <!--
