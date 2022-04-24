@@ -17,7 +17,9 @@ I am a software developer,cloud security architect, instructor, and one time man
 😄 Pronouns: he/him
 
 📫 Find me on twitter [@thecybergoof](https://twitter.com/TheCybergoof)
+
 📓 Find me on LinkedIn [cybergoof](https://www.linkedin.com/in/cybergoof/)
+
 👨🏼‍💻 My [SANS Profile](https://www.sans.org/profiles/shaun-mccullough/).  It has a list of my Webcasts and Publications through SANS 
 
 <!--
