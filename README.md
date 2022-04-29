@@ -14,11 +14,11 @@
 
 # Find me around the web
 
-📫 Find me on twitter [@thecybergoof](https://twitter.com/TheCybergoof)
+<img src="https://user-images.githubusercontent.com/3196612/165871283-ad06245e-c876-4d8d-b81f-030977bfda9d.png" width=20 heigh=100> Find me on twitter [@thecybergoof](https://twitter.com/TheCybergoof)
 
 <img src="https://user-images.githubusercontent.com/3196612/165870975-88ace2db-2d85-4245-813c-2d14db018995.png" width=20 heigh=100> Find me on LinkedIn [cybergoof](https://www.linkedin.com/in/cybergoof/)
 
-👨🏼‍💻 My [SANS Profile](https://www.sans.org/profiles/shaun-mccullough/).  It has a list of my Webcasts and Publications through SANS 
+<img src="https://user-images.githubusercontent.com/3196612/165871393-c3c59284-d851-4d13-9f04-1c6b7c49896d.png" width=20 heigh=100> My [SANS Profile](https://www.sans.org/profiles/shaun-mccullough/).  It has a list of my Webcasts and Publications through SANS 
 
 <!--
 **cybergoof/cybergoof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
