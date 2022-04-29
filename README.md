@@ -2,19 +2,15 @@
 
 
 
-I am a software developer,cloud security architect, instructor, and one time manager.  My passion is to make new tools for others to use.
+:octocat: I am a GitHub Staff Engineer focusing on security cloud infrastructure.  My other titles include sofwtare developer, cloud security architect, instructor, curriculum author, speaker, and one-time manager.  My passion is to make new tools that others use to improve the security of their infrastructure.
 
-:octocat: I am a staff engineer with [GitHub](https://github.com/) focusing on securing cloud workflows.
-
-:shipit:	I was with the [National Security Agency](https://www.nsa.gov/) for over 20 years, focus on cyber operations, red/blue/hunt, and software development.
+:shipit: I was with the [National Security Agency](https://www.nsa.gov/) for over 20 years, focus on cyber operations, red/blue/hunt, and software development.
 
 :man_teacher: SANS Instructor
 
 :writing_hand:	Co-author of SANS class [SEC541 Cloud Security Attacker Techniques, Monitoring & Threat Detection](https://www.sans.org/cyber-security-courses/cloud-security-monitoring-threat-detection/)
 
 🔭 I’m currently researching automated response actions, Azure policy deployment, and learning Terraform even though [AWS CDK](https://github.com/aws/aws-cdk) is my favorite.
-
-😄 Pronouns: he/him
 
 📫 Find me on twitter [@thecybergoof](https://twitter.com/TheCybergoof)
 
