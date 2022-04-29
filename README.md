@@ -1,6 +1,6 @@
 ![github_dark](https://user-images.githubusercontent.com/3196612/164955007-40eda9f4-dee2-4e33-b534-6a6ccae4d755.png)
 
-
+# A little about me
 
 :octocat: I am a GitHub Staff Engineer focusing on security cloud infrastructure.  My other titles include sofwtare developer, cloud security architect, instructor, curriculum author, speaker, and one-time manager.  My passion is to make new tools that others use to improve the security of their infrastructure.
 
@@ -12,9 +12,11 @@
 
 🔭 I’m currently researching automated response actions, Azure policy deployment, and learning Terraform even though [AWS CDK](https://github.com/aws/aws-cdk) is my favorite.
 
+# Find me around the web
+
 📫 Find me on twitter [@thecybergoof](https://twitter.com/TheCybergoof)
 
-📓 Find me on LinkedIn [cybergoof](https://www.linkedin.com/in/cybergoof/)
+<img src="https://user-images.githubusercontent.com/3196612/165870975-88ace2db-2d85-4245-813c-2d14db018995.png" width=20 heigh=100> Find me on LinkedIn [cybergoof](https://www.linkedin.com/in/cybergoof/)
 
 👨🏼‍💻 My [SANS Profile](https://www.sans.org/profiles/shaun-mccullough/).  It has a list of my Webcasts and Publications through SANS 
 
@@ -27,6 +29,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
+
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
