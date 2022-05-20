@@ -2,7 +2,7 @@
 
 # A little about me
 
-:octocat: I am a GitHub Staff Engineer focusing on security cloud infrastructure.  My other titles include sofwtare developer, cloud security architect, instructor, curriculum author, speaker, and one-time manager.  My passion is to make new tools that others use to improve the security of their infrastructure.
+:octocat: I am a GitHub Staff Engineer focusing on security cloud infrastructure.  My other titles include software developer, cloud security architect, instructor, curriculum author, speaker, and one-time manager.  My passion is to make new tools that others use to improve the security of their infrastructure.
 
 :shipit: I was with the [National Security Agency](https://www.nsa.gov/) for over 20 years, focus on cyber operations, red/blue/hunt, and software development.
 
