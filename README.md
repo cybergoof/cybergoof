@@ -1,6 +1,8 @@
 ![github_dark](https://user-images.githubusercontent.com/3196612/164955007-40eda9f4-dee2-4e33-b534-6a6ccae4d755.png)
 
-# A little about me
+<table><tr><td valign="top" width="75%">
+
+# 👋  Hi everyone, I am Shaun (cybergoof)
 
 :octocat: I am a GitHub Staff Engineer focusing on security cloud infrastructure.  My other titles include software developer, cloud security architect, instructor, curriculum author, speaker, and one-time manager.  My passion is to make new tools that others use to improve the security of their infrastructure.
 
@@ -11,7 +13,24 @@
 :writing_hand:	Co-author of SANS class [SEC541 Cloud Security Attacker Techniques, Monitoring & Threat Detection](https://www.sans.org/cyber-security-courses/cloud-security-monitoring-threat-detection/)
 
 🔭 I’m currently researching automated response actions, Azure policy deployment, and learning Terraform even though [AWS CDK](https://github.com/aws/aws-cdk) is my favorite.
+</td><td valign="top" width="25%">
 
+## 🖥️ Tech Experience
+
+- Information Security
+- AWS Cloud
+- Azure Cloud
+- Python
+- Docker
+- Typescript
+- CDK
+- Terraform (I like CDK Better)
+- ColdFusion, Sybase, Smalltalk to show my age
+  </td></tr></tr></table> 
+  
+
+<a href="https://twitter.com/TheCybergoof"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/TheCybergoof?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"> </a>>&nbsp;
+  
 # Find me around the web
 
 <img src="https://user-images.githubusercontent.com/3196612/165871283-ad06245e-c876-4d8d-b81f-030977bfda9d.png" width=20 heigh=100> Find me on twitter [@thecybergoof](https://twitter.com/TheCybergoof)
