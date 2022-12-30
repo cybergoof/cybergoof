@@ -29,7 +29,7 @@
   </td></tr></tr></table> 
   
 
-<a href="https://twitter.com/TheCybergoof"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/TheCybergoof?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"> </a>>&nbsp;
+<a href="https://twitter.com/TheCybergoof"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/TheCybergoof?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"> </a>&nbsp;<a href="https://stackoverflow.com/users/3734935/cybergoof"><img alt="Stackoverflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/3734935?style=for-the-badge"></a>
   
 # Find me around the web
 
