@@ -4,6 +4,8 @@
 
 # 👋  Hi everyone, I am Shaun (cybergoof)
 
+📢 I am excited to be speaking at [RSA 2024](https://www.rsaconference.com/experts/Shaun%20McCullough) in a talk titled **Building a Cloud Security Flywheel: Lessons from the Field**.  https://sec541.com/rsa will point to a blob post covering the topic of the presentation, so stay tuned.
+
 :octocat: I am a GitHub Staff Engineer focusing on security cloud infrastructure.  My other titles include software developer, cloud security architect, instructor, curriculum author, speaker, and one-time manager.  My passion is to make new tools that others use to improve the security of their infrastructure.
 
 :shipit: I was with the [National Security Agency](https://www.nsa.gov/) for over 20 years, focus on cyber operations, red/blue/hunt, and software development.
